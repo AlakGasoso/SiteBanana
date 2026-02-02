@@ -1,6 +1,8 @@
 # Para rodar o servidor em html:
 
-http://localhost:8000/home/
+http://localhost:8000/home/ --> ver o site
+
+python -m http.server --> rodar o seridor 
 
 # cores do site:
 
